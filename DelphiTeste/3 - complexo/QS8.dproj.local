@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/02/13 10:25:39.000.013,=C:\Users\devdi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/12/11 12:05:43.000.163,=C:\Users\devdi\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/12/11 18:29:39.000.780,=C:\Users\devdi\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/12/11 18:30:14.000.786,C:\Users\devdi\Desktop\DelphiTeste\3 - complexo\ufrmPrincipal.pas=C:\Users\devdi\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/12/11 18:30:14.000.786,C:\Users\devdi\Desktop\DelphiTeste\3 - complexo\ufrmPrincipal.dfm=C:\Users\devdi\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2021/12/11 18:30:55.000.822,C:\Users\devdi\Desktop\DelphiTeste\3 - complexo\QS8.dproj=C:\Users\devdi\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/12/11 18:34:03.455,=C:\Users\devdi\Desktop\DelphiTeste\3 - complexo\Unit1.pas</Transaction>
+    <Transaction>2021/12/11 18:34:17.042,C:\Users\devdi\Desktop\DelphiTeste\3 - complexo\uNetwork.pas=C:\Users\devdi\Desktop\DelphiTeste\3 - complexo\Unit1.pas</Transaction>
+    <Transaction>2021/12/11 18:45:04.420,=C:\Users\devdi\Desktop\DelphiTeste\3 - complexo\Unit1.pas</Transaction>
+    <Transaction>2021/12/11 18:45:10.147,C:\Users\devdi\Desktop\DelphiTeste\3 - complexo\uElemento.pas=C:\Users\devdi\Desktop\DelphiTeste\3 - complexo\Unit1.pas</Transaction>
+    <Transaction>2021/12/11 18:45:31.242,=C:\Users\devdi\Desktop\DelphiTeste\3 - complexo\Unit1.pas</Transaction>
+    <Transaction>2021/12/11 18:46:01.461,C:\Users\devdi\Desktop\DelphiTeste\3 - complexo\uinterfaceObservable.pas=C:\Users\devdi\Desktop\DelphiTeste\3 - complexo\Unit1.pas</Transaction>
+    <Transaction>2021/12/11 19:26:02.222,=C:\Users\devdi\Desktop\DelphiTeste\3 - complexo\Unit1.pas</Transaction>
+    <Transaction>2021/12/11 19:26:19.701,C:\Users\devdi\Desktop\DelphiTeste\3 - complexo\uInterfaceObservableStatus.pas=C:\Users\devdi\Desktop\DelphiTeste\3 - complexo\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

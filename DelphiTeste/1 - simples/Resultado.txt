@@ -1,0 +1,4 @@
+String: O rato roeu a roupa do rei de roma
+Velho: ro
+Novo: teste
+Resultado: O rato testeeu a testeupa do rei de testema
